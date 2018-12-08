@@ -1,4 +1,4 @@
-package guru.springframework.controllers;
+package guru.controllers;
 
 import guru.springframework.services.GreetingService;
 import org.springframework.beans.factory.annotation.Qualifier;
